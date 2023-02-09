@@ -28,12 +28,10 @@ export default function NavbarTwo() {
                     Compare
                   </a>
                 </li>
+                <li className="menu__item">
+                  <a className="menu__links cta" href="">Buy</a>
+                </li>
               </ul>
-            </div>
-            <div className="sec__nav--menu-cta">
-              <a className="cta__btn" href="#">
-                Buy
-              </a>
             </div>
           </div>
         </div>
